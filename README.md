@@ -1,6 +1,6 @@
 # resume
 
-(PDF_resume)[httpkarla-resume.pdf]
+(PDF_resume)[https://karlah78.github.io/resume/karla-resume.pdf]
 
 ## EDUCATION 
 
