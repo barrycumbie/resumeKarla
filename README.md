@@ -1,5 +1,7 @@
 # resume
 
+
+
 ## EDUCATION 
 
 _Bachelor of Business Administration, January 2022-May 2023_
@@ -8,16 +10,16 @@ _Bachelor of Business Administration, January 2022-May 2023_
 - GPA 3.50
 
 _Associates of Business Administration, May 2020-December 2021_
--Wallace State Community College 
--Major: General Business Administration 
--GPA 3.62 
+- Wallace State Community College 
+- Major: General Business Administration 
+- GPA 3.62 
 
 ## RELEVANT EXPERIENCE 
 _Student Worker March 2022- May 2023
--University of North Alabama, Florence AL 
--Set up for events 
--Organized files & made graphics  
--Assisted with event management 
+- University of North Alabama, Florence AL 
+- Set up for events 
+- Organized files & made graphics  
+- Assisted with event management 
 
 _Realtor® March 2019-2023_
 -Berkshire Hathaway Rise Real Estate, Madison AL 
