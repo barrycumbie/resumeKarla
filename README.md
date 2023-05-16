@@ -5,7 +5,7 @@
 ## EDUCATION 
 
 _Bachelor of Business Administration, January 2022-May 2023_
-- University of North Alabama 
+- [University of North Alabama](
 - Major: Data Analytics 
 - GPA 3.50
 
@@ -15,19 +15,19 @@ _Associates of Business Administration, May 2020-December 2021_
 - GPA 3.62 
 
 ## RELEVANT EXPERIENCE 
-_Student Worker March 2022- May 2023
+_Student Worker March 2022- May 2023_
 - University of North Alabama, Florence AL 
 - Set up for events 
 - Organized files & made graphics  
 - Assisted with event management 
 
 _Realtor® March 2019-2023_
--Berkshire Hathaway Rise Real Estate, Madison AL 
--Generate sales & client leads 
--Coordinate events including open houses and specialty showings 
--Organize house closings 
--Prepare and file personal & business taxes 
--Provide a quality customer service experience 
+- Berkshire Hathaway Rise Real Estate, Madison AL 
+- Generate sales & client leads 
+- Coordinate events including open houses and specialty showings 
+- Organize house closings 
+- Prepare and file personal & business taxes 
+- Provide a quality customer service experience 
 
 _BioTrain Intern May 2022- July 2022_
 
