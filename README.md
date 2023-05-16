@@ -12,7 +12,7 @@ _Associates of Business Administration, May 2020-December 2021_
 -Major: General Business Administration 
 -GPA 3.62 
 
-##RELEVANT EXPERIENCE 
+## RELEVANT EXPERIENCE 
 _Student Worker March 2022- May 2023
 -University of North Alabama, Florence AL 
 -Set up for events 
