@@ -1,6 +1,6 @@
 # resume
 
-(PDF_resume)[karla-resume.pdf]
+(PDF_resume)[httpkarla-resume.pdf]
 
 ## EDUCATION 
 
